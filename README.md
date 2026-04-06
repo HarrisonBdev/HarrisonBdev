@@ -6,9 +6,9 @@
 🎓 &nbsp;I'm Systems Engenieer.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue reading and love powerlifting as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting, volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can get in contact with me an email at [![Email](https://img.shields.io/badge/Gmail-Contact_Me-red)](mailto:mharry2404@gmail.com).\
-📄 &nbsp;Here u can take a look at my [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">](www.linkedin.com/in/harrison-bermudez-44252a3b8) for more details about me!
+📄 &nbsp;Here u can take a look at my [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">](https://linkedin.com/in/harrison-bermudez-44252a3b8) for more details my experiences!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -35,9 +35,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarrisonBdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/harrison-bermudez-44252a3b8"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mharry2404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
