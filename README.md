@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue reading and love powerlifting as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for consulting, volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can get in contact with me an email at [![Email](https://img.shields.io/badge/Gmail-Contact_Me-red)](mailto:mharry2404@gmail.com).\
-📄 &nbsp;Here u can take a look at my [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">](https://linkedin.com/in/harrison-bermudez-44252a3b8) for more details my experiences!
+📄 &nbsp;Here u can take a look at my [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">](https://linkedin.com/in/harrison-bermudez-44252a3b8) for more details about my experiences!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
